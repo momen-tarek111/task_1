@@ -1,0 +1,49 @@
+Step1
+We use mkdir to creat new directory 
+and ls to show the contact
+and cd to change current working directory
+
+
+
+Step 2
+We use mkdir to creat new directory 
+ and ls to show the contact
+and cd to change current working directory
+and touch creat new files
+
+
+Step 3 
+Use touch to creat new file 
+and use . in the frist name of the file to hidden
+and ls to verify
+
+Step 4
+ use nano edit text in the file
+use cat to show the content the file and verify
+
+Step 5 
+Use cd to go back  to documents directory
+
+
+Step6
+Use mkdir to creat new directory " - "
+and cd to change my current working directory to "-" directory
+
+
+Step7
+use cp to copy documents directory and rename 
+and ls to verify
+
+
+Step8 
+Use ls and option -a to show hidden file 
+and ls to verify
+
+Step 9
+Use mv to move file2,file3 to my directory
+ls to verify
+
+Step10
+Use cd .. to go back to home directory
+and rm -r to remove my directory
+and ls to verify
