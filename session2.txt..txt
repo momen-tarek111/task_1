@@ -1,0 +1,56 @@
+step 1 
+
+use unzip command  to decopress file 
+
+and use cd to enter the file 
+
+and ls to show the list of files
+
+and cat to show contact of README.txt file 
+
+step2
+
+use ls -a to show the hidden files 
+
+and use mv to rename the file level-1 to cancle the hidden
+
+and use tar -xf to extract level-1.tar 
+
+and use cd to enter to the level-1 file 
+
+and  use cat to show contant of README.txt 
+
+step3
+
+use tar -xvf  to extract the file "level-2" 
+
+step4 
+
+use cd to enter to file level-2 after extract 
+
+and use cat to show the text of the README.txt file 
+
+and use find to search on the level-3 file 
+
+and tar to extract level-3 file 
+ 
+and cd to enter in level-3 file 
+
+
+step5 
+
+use cat to read the text of README.txt file 
+
+and use ls -li to show list of files whose level-3 file and search the link of the file which has a certian size 
+
+
+
+step6 
+ 
+use cat to show the text of the file  which has a certian size 
+
+and use find  -size to search on the file by a certian size 
+
+and use cat to show the text of the final file 
+
+
