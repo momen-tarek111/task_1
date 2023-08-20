@@ -1,0 +1,33 @@
+step1 
+
+  1- we use useradd to add new user "osc"
+  2- we use passwd to creat password for new user "osc"
+  3- we use groupadd to creat new group "osc_group"
+  4- we use usermod to add "osc" user to "osc_group" group
+  5- we use usermod to add "osc" user to "sudo" group to Grant sudo privileges to                       
+  the user "osc"   
+  6-we su to change user to "osc"
+
+step2
+     
+  1-we use mkdir to creat new directory
+  2-we use touch to creat new file  
+  3-we use chmod to change permissions of a file by Absolute mode
+
+step3
+  
+  1-we use chown to change both the user and group to which a file belongs 
+
+step4
+   
+  1- we use & to start backgroung process
+  2- we use kill to kill the process
+  3- we use vim to open vim 
+  4- we use killall to kill vim process
+  5- we use jobs to view background process
+
+
+step5 
+ 
+   1- we use apt install to install neofetch package
+   2- we use apt remove to remove neofech
